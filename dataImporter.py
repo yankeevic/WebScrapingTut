@@ -20,7 +20,6 @@ def ReadData(urlloc, outfile):
         print(fhand)
     except:
         print("Unexpected error:", sys.exc_info()[0])
-        print(fhand)
         sys.exit(-1)  # raise
 
 
