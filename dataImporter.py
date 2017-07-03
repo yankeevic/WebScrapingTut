@@ -3,7 +3,7 @@
 import sys
 import urllib
 
-urlconstloc = 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp? \
+urlconstloc = 'http://ctabustracker.com/bustime/map/getBusesForRoute.jsp?\
 route=22'
 sOutFile = 'rt22.xml'
 
